@@ -1,1 +1,1 @@
-funct maian()
+func maian() {}
